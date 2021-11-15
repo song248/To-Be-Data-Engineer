@@ -29,8 +29,8 @@
 > view → cart → purchase 순서의 funnel steps 생성
 >   >   {view: 1, cart: 2, purchase: 3}  
 >   >   
-> user_session과 event_type에 따른 그룹 생성
-> funnel steps와 merge
-> funnel 제작
-> funnel 수치 계산
-> 계산 결과에 따른 시각화
+> user_session과 event_type에 따른 그룹 생성  
+> funnel steps와 merge  
+> funnel 제작  
+> funnel 수치 계산  
+> 계산 결과에 따른 시각화  
