@@ -8,6 +8,8 @@
 ----  
 > - UTC 기준 event_time → KST 기준으로 변환  
 > - user_session 기준 DAU 계산  
+![1번](https://user-images.githubusercontent.com/69496202/141769475-e5337a7e-98c1-48c4-9877-acac96b89b82.PNG)
+
   
 ----  
 ### 2. 1의 날짜에서, 가장 긴 세션 10개에 대해 "user_id, session_id, 세션시간"를 구하세요.  
