@@ -24,6 +24,7 @@
 ----  
 > - 매 시간별 15분 단위로 슬라이싱  
 > - user_session 이용 그룹 생성  
+![3번](https://user-images.githubusercontent.com/69496202/141769794-a0f0c13f-f7c1-41ec-9019-2ce7ddf79a10.PNG)
 
 ----  
 ### 4. 1의 날짜에서 view → cart → purchase 이벤트 진행에 따른 funnel 수치를 구하세요    
@@ -36,3 +37,4 @@
 > - funnel 제작  
 > - funnel 수치 계산  
 > - 계산 결과에 따른 시각화  
+![4번](https://user-images.githubusercontent.com/69496202/141770008-e5f74bdd-201b-481c-8222-990594202cf6.png)
