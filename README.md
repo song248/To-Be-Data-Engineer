@@ -17,6 +17,7 @@
 > - 1의 날짜 부분 별도 csv 파일로 저장  
 > - KST변환 시간 최댓값 기준, 최솟값 기준 user_session, user_id 그룹 생성  
 > - 시간 연산 후 내림차순 정렬, 상위 10개 출력  
+![2번](https://user-images.githubusercontent.com/69496202/141769676-426a2841-eb3b-4f39-8a9d-a4f29b278dee.PNG)
 
 ----  
 ### 3. 1의 날짜의 15분단위로 active user 수를 구하세요  
