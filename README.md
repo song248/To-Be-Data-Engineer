@@ -2,7 +2,10 @@
   
 ## 설명
 - 아래 링크의 사용자 activity 로그를 활용해 요구하는 값을 구하는 Spark Application 을 작성하세요.
-- https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store
+- https://www.kaggle.com/mkechinov/ecommerce-behavior-data-from-multi-category-store  
+  
+- **python 사용 이유:** pandas 라이브러리 사용을 위해(groupby 등 다양한 내장 함수 사용 목적)  
+
 
 ### 1. 해당 전체 기간에서, KST 기준으로 active user 수가 제일 큰 날짜를 구하세요.  
 ----  
