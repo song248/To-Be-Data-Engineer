@@ -30,3 +30,8 @@ day_df = new_commerce_df[['kst_day','user_session']]
 result = day_df.drop_duplicates()
 grouped = result.groupby(['kst_day']).size()
 result = grouped.index[grouped== max(grouped)][0]
+
+# DAU가 가장 많은 날의 row를 별도의 csv 파일로 저장
+hot_day_df = new_commerce_df[new_commerce_df['kst_day'] == 17].copy()
+hot_day_df.drop(['kst_day'], axis = 1, inplace=True)
+hot_day_df.to_csv('hot_day.csv', index=False)
